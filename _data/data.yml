@@ -1,6 +1,6 @@
 sidebar:
-  about: False # NO MODIFICAR
-  education: False # NO MODIFICAR
+  about: False 
+  education: False 
 
   name: Daniel Preciado
   tagline: React Native Mobile Developer
@@ -38,6 +38,9 @@ sidebar:
       link: 
 
     - item: Critical thinking
+      link:
+      
+    - item: Empathy
       link: 
 
 career-profile:
@@ -74,12 +77,17 @@ skills:
   toolset:
     - name: Javascript
       level: 65%
-      level-name: Competent
-      time: 3 years+
+      level-name: Advanced beginner
+      time: 2 years+
 
     - name: React Native
       level: 40%
       level-name: Advanced beginner
+      time: 6 months
+      
+    - name: Git
+      level: 20%
+      level-name: Novice
       time: 6 months
 
 footer: >
